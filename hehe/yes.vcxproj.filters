@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Imgui\imgui.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_draw.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_impl_dx9.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_impl_win32.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_widgets.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="offsets.h">
+      <Filter>ehh</Filter>
+    </ClInclude>
+    <ClInclude Include="Print.hpp">
+      <Filter>ehh</Filter>
+    </ClInclude>
+    <ClInclude Include="reverse.h">
+      <Filter>ehh</Filter>
+    </ClInclude>
+    <ClInclude Include="Skicript.hpp">
+      <Filter>ehh</Filter>
+    </ClInclude>
+    <ClInclude Include="xstring.h">
+      <Filter>ehh</Filter>
+    </ClInclude>
+    <ClInclude Include="icons1.h">
+      <Filter>ehh</Filter>
+    </ClInclude>
+    <ClInclude Include="Keybind.h">
+      <Filter>ehh</Filter>
+    </ClInclude>
+    <ClInclude Include="FVector.h">
+      <Filter>ehh</Filter>
+    </ClInclude>
+    <ClInclude Include="ac_spoof.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Imgui">
+      <UniqueIdentifier>{c3ea2088-a3ad-41bf-b883-8ddf92287b64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ehh">
+      <UniqueIdentifier>{c906a457-e65c-42a2-8b1a-3e3d3ebdb5be}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
