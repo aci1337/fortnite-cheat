@@ -1,13 +1,12 @@
-/*All rights deserved by BAS and AC
+/*All rights deserved by AC
 
 
-GitHub: https://github.com/BaseMax
+
 GitHub AC:  https://github.com/aci1337
 
 
 
-This source it's made for LeProxy, if you aren't leproxy just enjoy this source.*/
-
+*/
 
 
 
